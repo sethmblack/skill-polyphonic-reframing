@@ -4,7 +4,8 @@ description: Transform one-sided arguments or monologic presentations into genui
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4706
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - polyphonic-reframing
 - transformation
